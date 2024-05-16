@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePrado200&hide_progress=true)
 # Sobre mim
-## Estou entusiasmado em iniciar minha carreira na área de tecnologia e estou em busca do meu primeiro emprego nesta indústria dinâmica e em constante evolução. Meu profundo interesse em explorar os desafios e oportunidades oferecidos pela tecnologia é complementado pela minha prontidão em aplicar minha paixão e dedicação para contribuir de forma significativa para uma equipe inovadora. Estou ansioso para embarcar nesta emocionante jornada e fazer parte de uma comunidade onde posso crescer profissionalmente e fazer a diferença.
+<p "text-align:center"> Estou entusiasmado em iniciar minha carreira na área de tecnologia e estou em busca do meu primeiro emprego nesta indústria dinâmica e em constante evolução. Meu profundo interesse em explorar os desafios e oportunidades oferecidos pela tecnologia é complementado pela minha prontidão em aplicar minha paixão e dedicação para contribuir de forma significativa para uma equipe inovadora. Estou ansioso para embarcar nesta emocionante jornada e fazer parte de uma comunidade onde posso crescer profissionalmente e fazer a diferença.</p>
 
 
 # Tecnologias que utilizo no meu dia
