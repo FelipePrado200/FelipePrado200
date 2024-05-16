@@ -19,7 +19,7 @@
    Rocketseat Explorer :
   - JavaScript, HTML, CSS, React, Node.js, SQL, Git e controle de versão;
 
-Rocketseat Java :
+Rocketseat Java :<br/>
   - Criação de uma aplicação Java com Spring Boot;
 
 Rocketseat - NLW unite :
