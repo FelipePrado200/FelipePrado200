@@ -16,10 +16,11 @@
 # Meus certificados
 
 <p "text-align:center">
-   Rocketseat Explorer :
+  
+   Rocketseat Explorer : <br/>
   - JavaScript, HTML, CSS, React, Node.js, SQL, Git e controle de versão;
 
-Rocketseat Java :<br/>
+Rocketseat Java :
   - Criação de uma aplicação Java com Spring Boot;
 
 Rocketseat - NLW unite :
