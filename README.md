@@ -38,7 +38,7 @@ Design Patterns (Padrões de Projeto) , Desenvolvimento de Software Orientado a 
 
 </p>
 
-# Tecnologias que utilizo no meu dia
+# Tecnologias que utilizo diariamente
 
 <div style="display: inline_block">
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
