@@ -2,7 +2,6 @@
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5513981175814)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-prado013/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePrado200&hide_progress=true)
 # Sobre mim
 <p "text-align:center"> Estou entusiasmado em iniciar minha carreira na área de tecnologia e estou em busca do meu primeiro emprego nesta indústria dinâmica e em constante evolução. Meu profundo interesse em explorar os desafios e oportunidades oferecidos pela tecnologia é complementado pela minha prontidão em aplicar minha paixão e dedicação para contribuir de forma significativa para uma equipe inovadora. Estou ansioso para embarcar nesta emocionante jornada e fazer parte de uma comunidade onde posso crescer profissionalmente e fazer a diferença.</p>
 
