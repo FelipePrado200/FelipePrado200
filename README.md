@@ -19,7 +19,7 @@ Desenvolvedor Full Stack com experiência prática em **Next.js 14**, **TypeScri
 
 Atuo também como **Analista de TI**, com vivência real em infraestrutura de redes, suporte N1/N2/N3, administração Microsoft 365 e gerenciamento de dispositivos via MaaS360.
 
-Em especialização em **Segurança Ofensiva e Pentest** pela Solyd, e utilizo **Vibe Coding** com IDEs agênticas (Windsurf, Google Antigravity) e LLMs (Claude AI, ChatGPT, DeepSeek) no meu dia a dia de desenvolvimento.
+Certificado em **Segurança Ofensiva pela Solyd** com mais de **170 horas concluídas** em Pentest, Recon, Desenvolvimento Web para Pentesters, Redes, Python e Criptografia. Utilizo **Vibe Coding** com IDEs agênticas (Windsurf, Google Antigravity) e LLMs no desenvolvimento.
 
 ---
 
@@ -57,18 +57,18 @@ Em especialização em **Segurança Ofensiva e Pentest** pela Solyd, e utilizo *
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**DevOps & Deploy**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-**Infraestrutura & Segurança**
+**Segurança & Infra**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+
+**IA & Vibe Coding**
+
+![Claude](https://img.shields.io/badge/Claude_AI-1A3A5C?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0080FF?style=flat-square&logo=codeium&logoColor=white)
 
 </div>
 
@@ -80,41 +80,40 @@ Em especialização em **Segurança Ofensiva e Pentest** pela Solyd, e utilizo *
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 LeanOn</h3>
-      <p>Plataforma de suporte emocional com IA — conversas anônimas e seguras, disponíveis 24/7, com autenticação e banco relacional em produção.</p>
+      <p>Plataforma de suporte emocional com IA — conversas anônimas e seguras, disponíveis 24/7.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </p>
-      <a href="https://lean-on-swart.vercel.app">🔗 Ver demo</a> &nbsp;|&nbsp; <a href="https://github.com/FelipePrado200/LeonOn">📂 Repositório</a>
+      <a href="https://lean-on-swart.vercel.app">🔗 Demo</a> &nbsp;|&nbsp; <a href="https://github.com/FelipePrado200/LeonOn">📂 Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>✅ TaskFlow</h3>
-      <p>Plataforma corporativa de gestão de tarefas por departamento — autenticação segura, comentários, prioridades e dashboard de análise com IA e gráficos interativos.</p>
+      <p>Plataforma corporativa de gestão de tarefas com IA, dashboard de análise e gráficos interativos.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NextAuth-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NextAuth-000?style=flat-square"/>
       </p>
-      <a href="https://github.com/FelipePrado200">📂 Repositório</a>
+      <a href="https://task-flow-3fdo51d84-felipes-projects-dff84a82.vercel.app/login">🔗 Demo</a> &nbsp;|&nbsp; <a href="https://github.com/FelipePrado200">📂 Repo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💰 My Finances</h3>
-      <p>Sistema de controle financeiro pessoal com dashboard visual, categorização de transações e relatórios automáticos. Em produção na Vercel.</p>
+      <p>Controle financeiro pessoal com dashboard visual, categorização e relatórios automáticos.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <a href="https://my-finances-liard.vercel.app">🔗 Ver demo</a> &nbsp;|&nbsp; <a href="https://github.com/FelipePrado200/my-finances">📂 Repositório</a>
+      <a href="https://my-finances-liard.vercel.app">🔗 Demo</a> &nbsp;|&nbsp; <a href="https://github.com/FelipePrado200/my-finances">📂 Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 Em breve...</h3>
-      <p>Novos projetos com foco em segurança e automação estão em desenvolvimento.</p>
-      <p><img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow?style=flat-square"/></p>
+      <h3>🔐 Segurança Ofensiva</h3>
+      <p>Mais de 170h de treinamento prático em Pentest, Recon, Web Hacking e Infraestrutura — Solyd.</p>
+      <p><img src="https://img.shields.io/badge/170h+-concluidas-success?style=flat-square"/></p>
     </td>
   </tr>
 </table>
@@ -123,19 +122,41 @@ Em especialização em **Segurança Ofensiva e Pentest** pela Solyd, e utilizo *
 
 ## Certificações
 
-| Certificação | Instituição | Carga | Status |
-|---|---|---|---|
-| Full Stack Developer | Descomplica | 160h | ✅ |
-| Frontend Developer | Descomplica | 240h | ✅ |
-| Backend Developer | Descomplica | 160h | ✅ |
-| DevOps Strategist | Descomplica | 240h | ✅ |
-| Advanced Tester | Descomplica | 160h | ✅ |
-| Object-Oriented Developer | Descomplica | 240h | ✅ |
-| Basic FrontEnd | Descomplica | 240h | ✅ |
-| Explorer (HTML, CSS, JS, React, Node.js) | Rocketseat | 100h | ✅ |
-| NLW Unite — C# com .NET | Rocketseat | 6h | ✅ |
-| Curso de Java — Spring Boot | Rocketseat | 4h | ✅ |
-| Segurança Ofensiva e Pentest | Solyd | — | 🔄 Em andamento |
+**Descomplica Faculdade Digital — ADS (Concluído)**
+
+| Certificação | Carga |
+|---|---|
+| Full Stack Developer | 160h |
+| Full Cycle Developer | 160h |
+| Frontend Developer | 240h |
+| Backend Developer | 160h |
+| DevOps Strategist | 240h |
+| Advanced Tester | 160h |
+| Object-Oriented Developer | 240h |
+| Smart Manager | 240h |
+| Basic FrontEnd | 240h |
+
+**Solyd — Segurança Ofensiva (170h+ concluídas)**
+
+| Curso | Carga |
+|---|---|
+| Fundamentos de Segurança da Informação e Pentest | 3h |
+| Linux e Shell Script para Pentesters | 16h |
+| Fundamentos de Criptografia e Senhas | 6h |
+| Introdução ao Python e Algoritmos | 31h |
+| Python Orientado a Objetos e Automação | 47h |
+| Fundamentos de Redes para Pentesters | 9h |
+| Dominando o Recon em Pentest | 35h |
+| Desenvolvimento Web para Pentesters | 12h |
+| Pentest em Infraestrutura de Redes | 13h |
+
+**Rocketseat**
+
+| Curso | Carga |
+|---|---|
+| Explorer — HTML, CSS, JS, React, Node.js | 100h |
+| NLW Unite — C# com .NET | 6h |
+| Curso de Java — Spring Boot | 4h |
 
 ---
 
@@ -149,5 +170,6 @@ Em especialização em **Segurança Ofensiva e Pentest** pela Solyd, e utilizo *
 
 <div align="center">
   <i>Aberto a conexões, oportunidades e trocas de conhecimento · São Paulo, Brasil 🇧🇷</i>
+  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1A3A5C&height=80&section=footer" />
 </div>
