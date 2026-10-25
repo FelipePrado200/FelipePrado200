@@ -1,79 +1,107 @@
-<h1 align="center">Felipe Rodrigues Prado</h1>
-<h3 align="center">Desenvolvedor Full Stack · Analista de TI · Entusiasta de Segurança</h3>
-
 <div align="center">
-
-  [![Portfolio](https://img.shields.io/badge/MEU_PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white)](https://felipeprado200.github.io/Portifolio)
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-prado013)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=2000&color=1A3A5C&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+Rodrigues+Prado!;Desenvolvedor+Full+Stack;Analista+de+TI;Entusiasta+de+Seguran%C3%A7a;Amante+de+Tecnologia+e+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePrado200&layout=compact&theme=github_dark&langs_count=10&hide_border=true" alt="Top Langs" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipePrado200&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Felipe's GitHub stats" height="180em"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" width="500">
 </div>
 
-## 🚀 Minha Stack
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim... 
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/NEXT.JS-000.svg?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TAILWIND-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend
-![NodeJS](https://img.shields.io/badge/NODE.JS-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/PRISMA-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-
-#### Banco de Dados 
-![Postgres](https://img.shields.io/badge/POSTGRES-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Segurança & Infra
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/KALI-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
-![Microsoft](https://img.shields.io/badge/MICROSOFT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-
-#### IA & Vibe Coding
-![Claude](https://img.shields.io/badge/CLAUDE-1A3A5C?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/CHATGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Windsurf](https://img.shields.io/badge/WINDSURF-0080FF?style=for-the-badge&logo=codeium&logoColor=white)
-
----
-
-## 💼 Meus Melhores Projetos
+```javascript
+const felipe = {
+    pronomes: "ele" | "dele",
+    stack: [Javascript, Typescript, HTML, CSS, Node, React, NextJS, NestJS],
+    arquitetura: ["microservices", "event-driven", "design system pattern"],
+    desafios: "Estou fazendo a transição de carreira para desenvolvimento web, 
+               focado em construir produtos incríveis que impactem a vida das pessoas",
+    curiosidades: [ 
+                "Apaixonado por tecnologia e inovação",
+                "Sempre buscando aprender coisas novas", 
+                "Fã de jogos e ficção científica",
+                "Praticante de esportes"
+             ]
+}
+```
   
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Meus Projetos Destaque
+
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/FelipePrado200/LeonOn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipePrado200&repo=LeonOn&theme=github_dark&hide_border=true" alt="LeonOn repo card"></a>
+    <td width="50%" valign="top">
+      <h3>LeonOn</h3>
+      <p>Plataforma de suporte emocional com IA, conversas anônimas e seguras, disponíveis 24/7.</p>
+      <a href="https://lean-on-swart.vercel.app">🔗 Demo</a> &nbsp;|&nbsp; <a href="https://github.com/FelipePrado200/LeonOn">📂 Repo</a>
     </td>
-    <td>
-      <a href="https://github.com/FelipePrado200/my-finances"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipePrado200&repo=my-finances&theme=github_dark&hide_border=true" alt="my-finances repo card"></a>
+    <td width="50%" valign="top">
+      <h3>TaskFlow</h3>
+      <p>Plataforma corporativa de gestão de tarefas com IA, dashboard de análise e gráficos interativos.</p>
+      <a href="https://task-flow-3fdo51d84-felipes-projects-dff84a82.vercel.app/login">🔗 Demo</a> &nbsp;|&nbsp; <a href="https://github.com/FelipePrado200">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>My Finances</h3>
+      <p>Controle financeiro pessoal com dashboard visual, categorização e relatórios automáticos.</p>
+      <a href="https://my-finances-liard.vercel.app">🔗 Demo</a> &nbsp;|&nbsp; <a href="https://github.com/FelipePrado200/my-finances">📂 Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Segurança Ofensiva</h3>
+      <p>Mais de 170h de treinamento prático em Pentest, Recon, Web Hacking e Infraestrutura.</p>
+      <img src="https://img.shields.io/badge/170h+-concluidas-success?style=flat-square"/>
     </td>
   </tr>
 </table>
 
----
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Minhas Estatísticas
 
-## 📊 Minha Atividade no GitHub
+<details>
+  <summary>📈 Perfil do GitHub</summary>
+  <br/>
+  <div align="center">
+    <img alt="Felipe Prado's Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FelipePrado200?cardType=github&theme=tokyonight" />  
+  </div>
+  <br/>
+</details>
 
-![Felipe's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FelipePrado200&bg_color=0d1117&color=58a6ff&line=7dcfff&point=58a6ff&hide_border=true&area_color=1f6fea&area=true)
+<details>
+  <summary>⚡ Atividade Recente</summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipePrado200&theme=react-dark" alt="Activity Graph" />
+  </div>
+  <br/>
+</details>
 
----
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Conecte-se Comigo!
 
-## 📫 Vamos nos Conectar!  
 <div align="center">
-  <a href="https://linkedin.com/in/felipe-prado013" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/felipepradox013/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.gg/yHsFWPJs" target="_blank"><img src="https://img.shields.io/badge/DISCORD-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://felipeprado200.github.io/Portifolio">
+    <img src="https://img.shields.io/badge/-MEU%20PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/felipe-prado013">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:felipeendz@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://felipeprado200.github.io/Portifolio"><img src="https://img.shields.io/badge/-VEJA%20MEU%20PORTFÓLIO%20COMPLETO%20AQUI-1A3A5C?style=for-the-badge" alt="Portfolio Link"></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=FelipePrado200&label=VISITAS&color=1A3A5C&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=FelipePrado200&color=1A3A5C&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/FelipePrado200/FelipePrado200/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </div>
